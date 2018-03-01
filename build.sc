@@ -12,6 +12,7 @@ trait MyScalaModule extends ScalaModule { outer =>
 
 object demo extends MyScalaModule {
   override def ivyDeps = Agg(
+    ivy"io.reactivex::rxscala:0.26.5",
     ivy"org.scala-lang:scala-reflect:${scalaVersion()}"
   )
   object test extends MyTests

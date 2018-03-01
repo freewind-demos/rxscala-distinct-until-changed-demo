@@ -1,5 +1,7 @@
-Mill Base Project Demo
-======================
+RxScala Demo
+============
+
+RxScala: <https://github.com/ReactiveX/RxScala>
 
 Install mill:
 
@@ -10,7 +12,7 @@ sudo curl -L -o /usr/local/bin/mill https://github.com/lihaoyi/mill/releases/dow
 Run project:
 
 ```
-mill demo.test
+mill demo.run
 ```
 
 Generate IDEA project:
