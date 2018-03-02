@@ -1,5 +1,5 @@
-RxScala Demo
-============
+RxScala DistinctUntilChanged Demo
+==================================
 
 RxScala: <https://github.com/ReactiveX/RxScala>
 
